@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "pakschoolsmp.play.hosting",
+    "port": 2500,
     "version": "",
     "try-creative": false
   },
